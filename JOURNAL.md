@@ -17,7 +17,7 @@ today i started working on the schematics for the pcb and have gotten the gettin
 
   
 
-## 10/19/2025 - Update of PCB  
+## 10/19/2025 - Update of the schematics  
 
 Today I added to the pcb the crystal oscillator for the clock, a flash nand memory for the firmware to be stored in and the SD card slot for where the payloads will be stored in, I ended up chosing these components for them:
 - NAND flash -> [W25Q128JVSIQ](https://www.lcsc.com/product-detail/C97521.html)
