@@ -22,7 +22,7 @@ today i started working on the schematics for the pcb and have gotten the gettin
 Today I added to the pcb the crystal oscillator for the clock, a flash nand memory for the firmware to be stored in and the SD card slot for where the payloads will be stored in, I ended up chosing these components for them:
 - NAND flash -> [W25Q128JVSIQ](https://www.lcsc.com/product-detail/C97521.html)
 - crystal oscillator -> [ABRACON ABM8-272-T3](https://www.lcsc.com/product-detail/C20625731.html)
-- SD slot -> [XKB Connection XKTF-N02-N](https://www.lcsc.com/product-detail/C381084.html)
+- SD slot -> [XKB Connection XKTF-N02-N](https://www.lcsc.com/product-detail/C381084.html)  
 ![immagine.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--34b982a331d833b522f63478fed2d2a639e90acd/immagine.png)
 ![immagine.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--3582fdbcb1fcd8f11a64fc2c3d7786df2f655063/immagine.png)
 ![immagine.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU0NywicHVyIjoiYmxvYl9pZCJ9fQ==--c1eba9cb1717d2498b0029c50386762df6434666/immagine.png)
